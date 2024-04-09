@@ -2,13 +2,12 @@
 # Project Title : Automated-Drug-Dispenser-Machine
 
 
-#         SUBMITTED BY:  Subhash Jangid (20EAREC073)                      Submitted to : Dr. Aditya Kumar Singh Pundir (Incharge), Prof. (ECE Dept.)
-#                        Pushpendra Singh  (20EAREC052)                   
-#                        Manish Varma (20EAREC033)                        Guide name:    Er. Umesh Kumar Sharma, Associate Prof. (ECE Dept.)
-#                        Rahul saini (20EAREC053)                         
-#                        Hemant Bhargava (20EAREC020)                     Prof. (Dr.) Rahul Srivastava  HOD (ECE Department)
-#                        Sidak Preet Singh (20EAREC067)
+# SUBMITTED BY:  
+Subhash Jangid (20EAREC073) , Pushpendra Singh Chauhan  (20EAREC052) , Manish Varma (20EAREC033) , Rahul saini (20EAREC053)  , Hemant Bhargava (20EAREC020) , Sidak Preet Singh (20EAREC067)
 
+# Submitted to : Dr. Aditya Kumar Singh Pundir (Incharge), Prof. (ECE Dept.)
+# Guide name:    Er. Umesh Kumar Sharma, Associate Prof. (ECE Dept.)
+# Prof. (Dr) Rahul Srivastava, HOD ECE Dept.
 
 # Project Objective:
 The Automated Drug Dispenser Machine (ADDM) project aims to revolutionize medication management by provide a convenient and efficient solution for dispensing prescribed medications. 
